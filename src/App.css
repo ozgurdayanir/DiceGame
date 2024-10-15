@@ -80,7 +80,6 @@ input {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  margin-top: 40px;
 }
 
 .player-section, .computer-section {
