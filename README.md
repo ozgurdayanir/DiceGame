@@ -2,7 +2,7 @@
 
 This is a simple dice game built using React. The game features two dice: one for Player 1 and the other for the computer. The player can roll the dice, and the game will announce the result as "Win", "Lose", or "Draw" based on the dice outcomes. Additionally, Player 1 can change their username.
 
-**Web app url**: https://dice-game-f0z4ilu31-ozgur-dayanirs-projects.vercel.app
+**Web app url**: https://dice-game-sage-beta.vercel.app
 
 ### Features
 
